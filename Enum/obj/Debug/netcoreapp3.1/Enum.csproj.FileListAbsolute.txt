@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\Baku\Desktop\TaskAboutExtension\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache

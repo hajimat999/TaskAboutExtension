@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.exe
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.deps.json
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.json
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.dev.json
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.dll
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfo.cs
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.dll
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\Baku\Desktop\TaskAboutExtension\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.genruntimeconfig.cache
